@@ -159,7 +159,6 @@ void loop() {
     
     }
     
-     
 
 }
 //rial.println('pętla wykonana');
