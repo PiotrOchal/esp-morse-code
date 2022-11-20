@@ -27,21 +27,10 @@ pinMode(ledPin, OUTPUT);
 } 
 
  
-    // character by character print
-    // Morse code
-    
- 
-// Driver's code
-/*int main()
-{
-    
-
-
-*/
 
 void loop() {
   s="hellow word";
-  // put your main code here, to run repeatedly:
+ 
     digitalWrite(ledPin, HIGH);
     delay(1000);
     digitalWrite(ledPin, LOW);
